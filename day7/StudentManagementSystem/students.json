@@ -1,0 +1,18 @@
+[
+    {
+        "roll_no": "01",
+        "name": "ankush raj",
+        "age": 23,
+        "course": "cse",
+        "marks": [
+            95.0,
+            85.0,
+            88.0,
+            84.0,
+            88.0
+        ],
+        "total": 440.0,
+        "percentage": 88.0,
+        "grade": "A"
+    }
+]
